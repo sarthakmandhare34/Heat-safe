@@ -1,0 +1,6 @@
+{
+  "name": "HeatSafe AI",
+  "description": "Smart Heatwave Preparedness Platform designed for extreme weather safety and climate action adaptation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
